@@ -28,5 +28,4 @@ Realizar análise de dados a partir de um modelo dimensional utilizando consulta
 - Pandas
 - BigQuery
 
-## Autor
-Eduardo Lyrio
+Autor: Eduardo Lyrio
