@@ -29,5 +29,4 @@ Realizar análise de dados a partir de um modelo dimensional utilizando consulta
 - BigQuery
 
 ## Autor
-
 Eduardo Lyrio
